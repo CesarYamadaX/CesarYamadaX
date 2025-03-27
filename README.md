@@ -1,6 +1,9 @@
 ## Hello, World! I’m César 👋
 ![GitHub followers](https://img.shields.io/github/followers/CesarYamadax?style=social)
 
+# 📌 About Me
+Data Scientist with experience in predictive modeling, clustering, and optimization. Passionate about solving complex problems using machine learning and statistical techniques. 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
@@ -23,34 +26,12 @@
 </p>
 
 ### My Core Focus Areas:
-- **Trading Algorithms**: Mostly trend-following algorithms that I use (Private repos). 💹
-- **Back-End Development**: Crafting scalable, efficient systems to handle complex workflows. 🖥️
-- **Database Management and Knowledge Base Enthusiast**: Love learning about databases and their inner workings. 🧑‍💻
-- **Startup Lover**: Love working at startups and fast-paced environments. 🚀
-
-### Currently working on:
-- My own Database Managment System 
-- Collaborating with a few friends to build our own trading chatbot (Flash boys) 
-
+- **Predictive Modeling & Data Analysis**: Applying statistical and machine learning techniques for healthcare and industrial optimization.
+- **Optimization & Decision Support:**: Using genetic algorithms, Markov chains, and operations research to improve system efficiency.
+- **Machine Learning**: Developing models for classification, regression, and clustering in real-world applications.
 
 ### Want to collaborate?
 Send a message to: [cedayaxo@gmail.com](mailto:cedayaxo@gmail.com)
 
-I am starting to use this repository again after working extensively on my previous project. You can expect exciting new updates here! 🚧✨
-
-<img height="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ATaveraMi&layout=compact&langs_count=8&theme=algolia"/>
-
-<!--
-**ATaveraMi/ATaveraMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm excited to share new projects and insights. Stay tuned for updates! 🚀
 -->
