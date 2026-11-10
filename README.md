@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cesaryamada"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:cedayaxo@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -15,17 +16,26 @@
 
 ---
 
-## This is me :)
+<h2 align="center">About Me</h2>
 
-Hi, I'm **César**, a data / AI engineer based in México 🇲🇽. I turn messy retail data into pricing and sell-out decisions, and I like building the tools that make that work faster.
+I'm César, a data scientist based in Mexico. My current focus is applied AI, and AI agents in particular: systems where a model goes beyond answering questions and completes the task by calling tools, querying a database or reading a file. Most of my independent work goes into building with LLMs and making agents reliable in real use, beyond a demo.
 
-- 📊 **BI Specialist at Honor México** (Go-to-Market): pricing analysis, competitive benchmarking, sell-out reporting and data homologation across Mexico and LATAM.
-- 🤖 Currently obsessed with **AI agents for BI**: LangChain, OpenRouter, MCP servers and multi-agent setups that let an LLM talk to SQL Server and Power BI.
-- 🎓 **Data Science & Mathematics Engineering** at Tecnológico de Monterrey, minor in AI for Decision Making.
-- 🧮 Soft spot for mathematical optimization (LP, MIP, metaheuristics) and competitive programming.
-- 💬 Talk to me about **pricing, retail analytics or data agents** and you'll have my full attention.
+My background is in classical machine learning and optimization: predictive models, clustering, genetic algorithms and Markov chains. That foundation carries over directly to agents, because the work still comes down to data, evaluation and judging whether a result makes sense.
 
-<h2 align="center">my stack</h2>
+**Selected work**
+
+- **AI agents**: A WhatsApp assistant that answers database questions in plain language, by text or voice note, with an animated mascot designed to give it a recognizable identity.
+- **[Web scraping](https://github.com/CesarYamadaX/Scrapping)**: Tools that collect and organize public product and price data from online stores.
+- **[Web applications](https://github.com/CesarYamadaX/foundation-management-system)**: A management system for a foundation that supports the deaf community in Mexico.
+- **Side projects**: [Browser minigames](https://github.com/CesarYamadaX/Minigames) and a [simple chess engine](https://github.com/CesarYamadaX/simple-chess-engine).
+
+**Areas of interest**
+
+- **AI agents**: LLMs that use tools, connect to real data and automate the repetitive parts of a workflow, so people can spend their time on what requires judgment.
+- **Machine learning**: Classification, regression and clustering on real, messy data.
+- **Optimization and decision support**: Operations research, genetic algorithms and Markov chains applied to finding the best way to do something.
+
+<h2 align="center">My Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,mysql,mongodb,react&theme=dark" alt="Python, R, TensorFlow, scikit-learn, MySQL, MongoDB, React" />
@@ -40,7 +50,7 @@ Hi, I'm **César**, a data / AI engineer based in México 🇲🇽. I turn messy
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
 </p>
 
-<h2 align="center">signals</h2>
+<h2 align="center">Signals</h2>
 
 <p align="center">
   <picture>
@@ -49,15 +59,10 @@ Hi, I'm **César**, a data / AI engineer based in México 🇲🇽. I turn messy
   </picture>
 </p>
 
-<h2 align="center">numbers</h2>
+<h2 align="center">Contact</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CesarYamadaX&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=0e9aa7&icon_color=3b9cf2&text_color=7b8794" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarYamadaX&layout=compact&hide_border=true&theme=transparent&title_color=0e9aa7&text_color=7b8794" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CesarYamadaX&hide_border=true&background=00000000&ring=3b9cf2&fire=3b9cf2&currStreakLabel=0e9aa7&sideLabels=7b8794&currStreakNum=7b8794&sideNums=7b8794&dates=9aa5b4" alt="GitHub streak" />
+  If you are building with AI agents, LLMs or data, or would like to exchange ideas, write to me at <a href="mailto:cedayaxo@gmail.com">cedayaxo@gmail.com</a>.
 </p>
 
 ---
