@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-label="Skill radar: years of experience per tool">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}@keyframes grow{0%{transform:scale(.2);opacity:0}100%{transform:scale(1);opacity:1}}.poly{transform-box:fill-box;transform-origin:center;animation:grow 1.2s ease-out both}</style>
+<rect x=".5" y=".5" width="899" height="399" rx="8" fill="#f6f8fc" stroke="#d3dce8"/>
+<path d="M450.0 1v398" stroke="#d3dce8"/>
+<text x="225.0" y="34" font-size="13" font-weight="700" fill="#1f2937" text-anchor="middle">Data &amp; BI</text>
+<text x="225.0" y="50" font-size="9.5" fill="#7b8794" text-anchor="middle">years of hands-on experience</text>
+<polygon points="225.0,188.5 248.1,199.6 253.8,224.6 237.8,244.6 212.2,244.6 196.2,224.6 201.9,199.6" fill="none" stroke="#d3dce8" stroke-width="1"/>
+<polygon points="225.0,159.0 271.1,181.2 282.5,231.1 250.6,271.2 199.4,271.2 167.5,231.1 178.9,181.2" fill="none" stroke="#d3dce8" stroke-width="1"/>
+<polygon points="225.0,129.5 294.2,162.8 311.3,237.7 263.4,297.7 186.6,297.7 138.7,237.7 155.8,162.8" fill="none" stroke="#d3dce8" stroke-width="1"/>
+<polygon points="225.0,100.0 317.3,144.4 340.0,244.3 276.2,324.3 173.8,324.3 110.0,244.3 132.7,144.4" fill="none" stroke="#d3dce8" stroke-width="1.4"/>
+<path d="M225.0 218L225.0 100.0" stroke="#d3dce8"/>
+<path d="M225.0 218L317.3 144.4" stroke="#d3dce8"/>
+<path d="M225.0 218L340.0 244.3" stroke="#d3dce8"/>
+<path d="M225.0 218L276.2 324.3" stroke="#d3dce8"/>
+<path d="M225.0 218L173.8 324.3" stroke="#d3dce8"/>
+<path d="M225.0 218L110.0 244.3" stroke="#d3dce8"/>
+<path d="M225.0 218L132.7 144.4" stroke="#d3dce8"/>
+<g class="poly">
+<polygon points="225.0,129.5 294.2,162.8 311.3,237.7 276.2,324.3 186.6,297.7 167.5,231.1 201.9,199.6" fill="#1f8a4c" fill-opacity=".18" stroke="#1f8a4c" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="225.0" cy="129.5" r="3.2" fill="#1f8a4c"/>
+<circle cx="294.2" cy="162.8" r="3.2" fill="#1f8a4c"/>
+<circle cx="311.3" cy="237.7" r="3.2" fill="#1f8a4c"/>
+<circle cx="276.2" cy="324.3" r="3.2" fill="#1f8a4c"/>
+<circle cx="186.6" cy="297.7" r="3.2" fill="#1f8a4c"/>
+<circle cx="167.5" cy="231.1" r="3.2" fill="#1f8a4c"/>
+<circle cx="201.9" cy="199.6" r="3.2" fill="#1f8a4c"/>
+</g>
+<text x="225.0" y="72.0" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="middle">Python</text>
+<text x="225.0" y="85.0" font-size="9.5" fill="#7b8794" text-anchor="middle">3 yrs</text>
+<text x="331.3" y="133.2" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="start">SQL</text>
+<text x="331.3" y="146.2" font-size="9.5" fill="#7b8794" text-anchor="start">3 yrs</text>
+<text x="357.6" y="248.3" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="start">Power BI</text>
+<text x="357.6" y="261.3" font-size="9.5" fill="#7b8794" text-anchor="start">3 yrs</text>
+<text x="284.0" y="340.5" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="start">Excel</text>
+<text x="284.0" y="353.5" font-size="9.5" fill="#7b8794" text-anchor="start">4 yrs</text>
+<text x="166.0" y="340.5" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="end">Plotly</text>
+<text x="166.0" y="353.5" font-size="9.5" fill="#7b8794" text-anchor="end">3 yrs</text>
+<text x="92.4" y="248.3" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="end">R</text>
+<text x="92.4" y="261.3" font-size="9.5" fill="#7b8794" text-anchor="end">2 yrs</text>
+<text x="118.7" y="133.2" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="end">Tableau</text>
+<text x="118.7" y="146.2" font-size="9.5" fill="#7b8794" text-anchor="end">1 yr</text>
+<text x="675.0" y="34" font-size="13" font-weight="700" fill="#1f2937" text-anchor="middle">ML &amp; AI</text>
+<text x="675.0" y="50" font-size="9.5" fill="#7b8794" text-anchor="middle">years of hands-on experience</text>
+<polygon points="675.0,188.5 698.1,199.6 703.8,224.6 687.8,244.6 662.2,244.6 646.2,224.6 651.9,199.6" fill="none" stroke="#d3dce8" stroke-width="1"/>
+<polygon points="675.0,159.0 721.1,181.2 732.5,231.1 700.6,271.2 649.4,271.2 617.5,231.1 628.9,181.2" fill="none" stroke="#d3dce8" stroke-width="1"/>
+<polygon points="675.0,129.5 744.2,162.8 761.3,237.7 713.4,297.7 636.6,297.7 588.7,237.7 605.8,162.8" fill="none" stroke="#d3dce8" stroke-width="1"/>
+<polygon points="675.0,100.0 767.3,144.4 790.0,244.3 726.2,324.3 623.8,324.3 560.0,244.3 582.7,144.4" fill="none" stroke="#d3dce8" stroke-width="1.4"/>
+<path d="M675.0 218L675.0 100.0" stroke="#d3dce8"/>
+<path d="M675.0 218L767.3 144.4" stroke="#d3dce8"/>
+<path d="M675.0 218L790.0 244.3" stroke="#d3dce8"/>
+<path d="M675.0 218L726.2 324.3" stroke="#d3dce8"/>
+<path d="M675.0 218L623.8 324.3" stroke="#d3dce8"/>
+<path d="M675.0 218L560.0 244.3" stroke="#d3dce8"/>
+<path d="M675.0 218L582.7 144.4" stroke="#d3dce8"/>
+<g class="poly">
+<polygon points="675.0,159.0 721.1,181.2 732.5,231.1 700.6,271.2 662.2,244.6 617.5,231.1 628.9,181.2" fill="#1f8a4c" fill-opacity=".18" stroke="#1f8a4c" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="675.0" cy="159.0" r="3.2" fill="#1f8a4c"/>
+<circle cx="721.1" cy="181.2" r="3.2" fill="#1f8a4c"/>
+<circle cx="732.5" cy="231.1" r="3.2" fill="#1f8a4c"/>
+<circle cx="700.6" cy="271.2" r="3.2" fill="#1f8a4c"/>
+<circle cx="662.2" cy="244.6" r="3.2" fill="#1f8a4c"/>
+<circle cx="617.5" cy="231.1" r="3.2" fill="#1f8a4c"/>
+<circle cx="628.9" cy="181.2" r="3.2" fill="#1f8a4c"/>
+</g>
+<text x="675.0" y="72.0" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="middle">TensorFlow</text>
+<text x="675.0" y="85.0" font-size="9.5" fill="#7b8794" text-anchor="middle">2 yrs</text>
+<text x="781.3" y="133.2" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="start">Keras</text>
+<text x="781.3" y="146.2" font-size="9.5" fill="#7b8794" text-anchor="start">2 yrs</text>
+<text x="807.6" y="248.3" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="start">XGBoost</text>
+<text x="807.6" y="261.3" font-size="9.5" fill="#7b8794" text-anchor="start">2 yrs</text>
+<text x="734.0" y="340.5" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="start">Statsmodels</text>
+<text x="734.0" y="353.5" font-size="9.5" fill="#7b8794" text-anchor="start">2 yrs</text>
+<text x="616.0" y="340.5" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="end">SHAP</text>
+<text x="616.0" y="353.5" font-size="9.5" fill="#7b8794" text-anchor="end">1 yr</text>
+<text x="542.4" y="248.3" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="end">LangChain</text>
+<text x="542.4" y="261.3" font-size="9.5" fill="#7b8794" text-anchor="end">2 yrs</text>
+<text x="568.7" y="133.2" font-size="11.5" font-weight="600" fill="#1f2937" text-anchor="end">AI tooling</text>
+<text x="568.7" y="146.2" font-size="9.5" fill="#7b8794" text-anchor="end">2 yrs</text>
+</svg>
