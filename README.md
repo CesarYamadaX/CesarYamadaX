@@ -7,16 +7,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cesaryamada"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/cedayaxo"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:cedayaxo@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CesarYamadaX&color=3b9cf2&label=profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/CesarYamadaX?style=social" alt="GitHub followers" />
 </p>
 
 ---
 
-<h2 align="center">About Me</h2>
+## About Me
 
 I'm César, a data scientist based in Mexico. My current focus is applied AI, and AI agents in particular: systems where a model goes beyond answering questions and completes the task by calling tools, querying a database or reading a file. Most of my independent work goes into building with LLMs and making agents reliable in real use, beyond a demo.
 
@@ -64,7 +65,3 @@ My background is in classical machine learning and optimization: predictive mode
 <p align="center">
   If you are building with AI agents, LLMs or data, or would like to exchange ideas, write to me at <a href="mailto:cedayaxo@gmail.com">cedayaxo@gmail.com</a>.
 </p>
-
----
-
-<p align="center"><code>built with data · @CesarYamadaX</code></p>
